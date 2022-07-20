@@ -1,3 +1,23 @@
+# setup
+  1.Download from github and open in vs code
+
+  2.npm install
+
+# to run the project
+  1.npm start
+
+# to fetch API
+  npm i axios
+
+# for routing
+  npm i react-router-dom  
+
+# for animation 
+  react-animated-css
+
+# also material UI and bootstrap is used
+  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

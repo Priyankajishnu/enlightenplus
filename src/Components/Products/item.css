@@ -1,0 +1,21 @@
+.singleimage {
+    height:300px;
+    width:300px;
+    margin-top:150px;
+    margin-left: 80px;
+}
+
+.description{
+    float:right;
+    margin-top: -300px;
+    margin-left: 450px;
+}
+.rating{
+
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.rating .checked {
+    color: orange;
+}
