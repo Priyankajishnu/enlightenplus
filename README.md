@@ -3,19 +3,19 @@
 
   2.npm install
 
-# to run the project
+# To run the project
   1.npm start
 
-# to fetch API
+# To fetch API
   npm i axios
 
-# for routing
+# For Routing
   npm i react-router-dom  
 
-# for animation 
+# For Animation 
   react-animated-css
 
-# also material UI and bootstrap is used
+# Material UI and Bootstrap is also used
   
 
 # Getting Started with Create React App
